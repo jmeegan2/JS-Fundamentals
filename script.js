@@ -25,3 +25,27 @@
 // admin = nameIs;
 
 // alert(admin);
+
+// let planetName;
+
+// planetName = 'Earth';
+
+// // or let planetName = "Earth";
+
+// let currentUseName = "John";
+//  alert( Infinity ); // infinity
+// alert( 1/0 ); //infinity 
+// alert( "not a number" / 2); //NaN,  such division is erroneous
+// alert ( 69 * 2 );
+
+// let nameFieldCheck = true; // yes, the name is checked
+// let ageFieldChecked = false; //no, age field is not checked 
+
+// let isGreater = 4 < 1;
+// alert( isGreater ); // true (the comparison result is "yes")
+
+// let age;
+// alert(age); // shows "undefined"
+// let name = "Ilya";
+
+// alert( `hello ${name} `);
