@@ -49,3 +49,4 @@
 // let name = "Ilya";
 
 // alert( `hello ${name} `);
+// im just gonna do the rest in the console
